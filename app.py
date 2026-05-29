@@ -19,7 +19,6 @@ ROOM_OPTIONS = [
     "Nursery", "Office", "Pantry", "Patio", "Play", "Pool", "Porch", "Shop", 
     "Storage", "Theater", "Utility", "Workout"
 ]
-
 # Updated columns based on your structural requirements
 COLUMNS = [
     "Item #", "Room", "Brand or Manufacturer", "Model#", 
