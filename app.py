@@ -1,0 +1,1 @@
+streamlit openai pandas openpyxl pillow
